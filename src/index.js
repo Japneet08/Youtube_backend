@@ -1,0 +1,5 @@
+const connectDB=require('../src/db/db')
+require('dotenv').config({path:'./env'})
+// const express=require('express')
+// const app= express()
+connectDB()
