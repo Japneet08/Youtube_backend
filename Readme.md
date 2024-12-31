@@ -33,3 +33,15 @@ Replace 'main' with the correct branch name if needed
 #
 # 2. Folder Structure
 
+# 3. schema
+## if you wish to enable searching on any field in its model set the index property true 
+## rest all properties are ->
+## required
+## unique
+## lowercase
+## trim 
+## index
+
+--> learn aggregation and pipelines
+--> mongoose-agregate- paginate.v2 
+-->npm install mongoose-aggregate-paginate-v2
